@@ -8,6 +8,7 @@ Features:
 - Beautiful Design
 - Developed With PHP/MySQL
 - High Performance
+- Send email to the userو related to information about the ticket
  
  How To Use it:
 1- Import MySQL Database File to PHPMyAdmin
